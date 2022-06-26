@@ -327,7 +327,9 @@
 .footer .copyright a:hover {
     color: var(--primary);
 }
-.w101{
+.w-101{
     display: block;
     margin: auto;
+    width: 75%;
+    max-height: 650px;
 }
